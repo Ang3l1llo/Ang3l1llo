@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Angel]
+# 👋 Hi there! I'm Angel
 
 I'm a developer with a passion for mobile development, game creation, and cross-platform software. I enjoy learning new technologies and working on projects that blend creativity with functionality.
 
