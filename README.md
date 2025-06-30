@@ -7,7 +7,7 @@ I'm a developer with a passion for mobile development, game creation, and cross-
 - 🧠 **Programming Languages:** Kotlin · Java · C# · Python  
 - 🌐 **Web Technologies:** HTML · CSS  
 - 📱 **Mobile Development:** Android Studio  
-- 🗃️ **Databases:** MariaDB · MySQL  
+- 🗃️ **Databases:** MariaDB · MySQL · MongoDB
 - 🎮 **Game Development:** Godot Engine  
 
 ## 🚀 Featured Projects
