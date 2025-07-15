@@ -12,7 +12,8 @@ I'm a developer with a passion for mobile development, game creation, and cross-
 
 ## 🚀 Featured Projects
 
-- 🎮 **Future vs Fantasy** – An action-survival game inspired by *Vampire Survivors* with my personal style, developed with Godot Engine.  
+- 🎮 **Future vs Fantasy** – An action-survival game inspired by *Vampire Survivors* with my personal style, developed with Godot Engine.
+- 🔐 **SentriTask API** – A secure REST API for task management with role-based access control, built with Spring Boot and MongoDB.  
 - 📱 **Task Manager** – Android app built with Jetpack Compose to organize and manage daily tasks.  
 - 🌐 **Sports Booking API** – REST API developed with Spring Boot and MySQL for managing sports facility reservations.
 
